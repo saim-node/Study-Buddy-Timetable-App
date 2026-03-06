@@ -3,8 +3,11 @@
 **Study Buddy** is a lightweight desktop widget built with Python and Tkinter.  
 It helps you track your schedule, current and next tasks, and daily study progress.
 
-![Screenshot](screenshot.png)  
-*(Replace `screenshot.png` with an actual screenshot of the widget)*
+## Screenshots
+
+![Screenshot](https://i.imgur.com/abcd1234.png)  
+*(This is Study Buddy in action)*
+
 ---
 
 ## Features
