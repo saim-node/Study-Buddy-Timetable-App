@@ -22,7 +22,7 @@ It helps you track your schedule, current and next tasks, and daily study progre
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/study-buddy.git
+git clone https://github.com/saim-node/Study-Buddy-Timetable-App.git
 cd study-buddy
 python -m venv venv
 # Activate:
