@@ -5,8 +5,8 @@ It helps you track your schedule, current and next tasks, and daily study progre
 
 ## Screenshots
 
-![Screenshot](https://i.imgur.com/abcd1234.png)  
-*(This is Study Buddy in action)*
+![Screenshot](https://drive.google.com/uc?export=view&id=1n8tA-cP-yNppKqs5kbuGfX-VDeNn96Xc)
+
 
 ---
 
